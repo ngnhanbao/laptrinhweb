@@ -1,1 +1,3 @@
 Đây là code của nhánh Master không được đụng vào
+Đây là code của nhánh test_conflict
+
