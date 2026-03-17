@@ -1,2 +1,1 @@
-Tạo file chuc_nang.txt
-Để test_conflict
+Đây là code của nhánh test_conflict
